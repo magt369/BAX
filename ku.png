@@ -1,4 +1,0 @@
-add ku.png
-commit -m 'add png file'
-remote add origin https://www.dropbox.com/s/kwuwo9vxi8zi1v5/ku.png?dl=0
-push -u origin master
